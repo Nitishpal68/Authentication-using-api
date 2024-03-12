@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\xampp\\htdocs\\Web Development\\DotNet\\MVCApplication\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5A72F6EE-1AE9-41AB-BAA3-E85BD8E8C4C7}|MVCApplication\\MVCApplication.csproj|c:\\xampp\\htdocs\\web development\\dotnet\\mvcapplication\\mvcapplication\\controllers\\timesheetcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A72F6EE-1AE9-41AB-BAA3-E85BD8E8C4C7}|MVCApplication\\MVCApplication.csproj|solutionrelative:mvcapplication\\controllers\\timesheetcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A72F6EE-1AE9-41AB-BAA3-E85BD8E8C4C7}|MVCApplication\\MVCApplication.csproj|c:\\xampp\\htdocs\\web development\\dotnet\\mvcapplication\\mvcapplication\\views\\timesheet\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5A72F6EE-1AE9-41AB-BAA3-E85BD8E8C4C7}|MVCApplication\\MVCApplication.csproj|solutionrelative:mvcapplication\\views\\timesheet\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A72F6EE-1AE9-41AB-BAA3-E85BD8E8C4C7}|MVCApplication\\MVCApplication.csproj|c:\\xampp\\htdocs\\web development\\dotnet\\mvcapplication\\mvcapplication\\models\\timesheet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A72F6EE-1AE9-41AB-BAA3-E85BD8E8C4C7}|MVCApplication\\MVCApplication.csproj|solutionrelative:mvcapplication\\models\\timesheet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\Web Development\\DotNet\\MVCApplication\\MVCApplication\\Views\\TimeSheet\\Index.cshtml",
+              "RelativeDocumentMoniker": "MVCApplication\\Views\\TimeSheet\\Index.cshtml",
+              "ToolTip": "C:\\xampp\\htdocs\\Web Development\\DotNet\\MVCApplication\\MVCApplication\\Views\\TimeSheet\\Index.cshtml",
+              "RelativeToolTip": "MVCApplication\\Views\\TimeSheet\\Index.cshtml",
+              "ViewState": "AQIAABMAAAAAMzMzMzMLwCEAAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-26T03:15:56.859Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TimeSheetController.cs",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\Web Development\\DotNet\\MVCApplication\\MVCApplication\\Controllers\\TimeSheetController.cs",
+              "RelativeDocumentMoniker": "MVCApplication\\Controllers\\TimeSheetController.cs",
+              "ToolTip": "C:\\xampp\\htdocs\\Web Development\\DotNet\\MVCApplication\\MVCApplication\\Controllers\\TimeSheetController.cs",
+              "RelativeToolTip": "MVCApplication\\Controllers\\TimeSheetController.cs",
+              "ViewState": "AQIAAB0AAACAzMzMzMwcwF4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T03:06:45.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TimeSheet.cs",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\Web Development\\DotNet\\MVCApplication\\MVCApplication\\Models\\TimeSheet.cs",
+              "RelativeDocumentMoniker": "MVCApplication\\Models\\TimeSheet.cs",
+              "ToolTip": "C:\\xampp\\htdocs\\Web Development\\DotNet\\MVCApplication\\MVCApplication\\Models\\TimeSheet.cs",
+              "RelativeToolTip": "MVCApplication\\Models\\TimeSheet.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAwwBEAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-24T17:59:20.558Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
